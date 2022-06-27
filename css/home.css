@@ -1,0 +1,62 @@
+body{
+    background-color: #252D34;
+}
+
+
+
+.navbar-brand img{
+    width: 70px;
+    height: 70px;
+}
+
+.navbar-nav li a{
+    font-size: 22px;
+    font-weight: 700;
+    color:black;
+}
+
+.navbar-nav li{
+    padding-right: 5%;
+}
+
+
+.title{
+    min-height:100vh ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+}
+
+.title h1{
+    color: white;
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.title span{
+    font-weight: 700;
+    font-size: 24px;
+    color: #F5A4C7 ;
+    padding-top:1%;
+}
+
+.title input{
+    border-radius: 30px;
+    width: 500px;
+    height: 50px;
+   
+}
+
+.title a{
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    padding-top:4%;
+}
+
+input{
+    padding: 1%;
+}
